@@ -1,2 +1,1 @@
-# DNS_ServerConfiguration
-DNS Server Configuration On CentOS [8]
+# DNS Server Configuration On CentOS 8
