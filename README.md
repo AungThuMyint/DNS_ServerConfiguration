@@ -1,5 +1,6 @@
 # DNS Server Configuration On CentOS 8
 
+### Clone Repository & Run Command
 ```shell
 git clone https://github.com/AungThuMyint/DNS_ServerConfiguration.git
 ```
